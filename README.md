@@ -1,6 +1,6 @@
 # Pneumonia detection in X-ray images
 
-Two CNN models were created to classify images into "Normal" or "Pneumonia" based on analysis of X-ray images sourced from a Kaggle dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+Two CNN models were created to detect the presence of pneumonia in X-ray images and classify each image as "Normal" or "Pneumonia". Sourced from Kaggle dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 ## Deep CNN model 
 
